@@ -1,0 +1,32 @@
+{
+  "name": "daytwo",
+  "version": "1.0.0",
+  "description": "Simple React Application",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SudiptaMajumder27/DayTwo.git"
+  },
+  "keywords": [
+    "react.js"
+  ],
+  "author": "Sudipta Majumder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SudiptaMajumder27/DayTwo/issues"
+  },
+  "homepage": "https://github.com/SudiptaMajumder27/DayTwo#readme",
+  "devDependencies": {
+    "parcel": "^2.13.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "daytwo": "file:",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
